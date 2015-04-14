@@ -1,0 +1,1 @@
+这是自己用来试验的，webservice客户端项目，是从网上找来的例子，自己测试学习的。com\webservice\下的代码是通过 WebServiceServer 项导出来的。调用是在comwebclient\包下的代码
